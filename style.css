@@ -1,0 +1,83 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #DFE0E7;
+  color: #00073C;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+canvas {
+  padding: 0;
+  margin: auto;
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+button {
+  background-color: #40456D;
+  border: none;
+  color: white;
+  padding: 6px 12px;
+  text-align: center;
+  color: #DFE0E7;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  border-bottom: 4px solid #202654;
+  border-right: 4px solid #202654;
+}
+
+input {
+  background-color: #80839E;
+  padding: 6px 12px;
+  margin: 0 14px;
+  color: #FFFFFF;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 4px solid #202654;
+  text-align: center;
+  font-size: 30px;
+  border-right: 4px solid #202654;
+}
+
+p {
+  background-color: #40456D;
+  text-align: center;
+  border: none;
+  color: #DFE0E7;
+  padding: 12px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 34px;
+
+  border-bottom: 4px solid #202654;
+  border-right: 4px solid #202654;
+}
+
+h6 {
+  background-color: #40456D;
+  text-align: center;
+  border: none;
+  color: #DFE0E7;
+  padding: 12px 24px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  width: 500px;
+
+  border-bottom: 4px solid #202654;
+  border-right: 4px solid #202654;
+}
+
+a {
+  color: #9FA2B6;
+  text-decoration: underline double #202654;
+  font-size: 14px;
+}
